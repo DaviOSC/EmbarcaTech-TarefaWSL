@@ -45,5 +45,5 @@ A função `gpio_irq_handler` é chamada quando ocorre uma interrupção nos pin
 
 A função `repeating_timer_callback` é chamada repetidamente pelo temporizador. Ela inverte o estado do LED no pino 13 (`LED_PIN_RED`), fazendo com que ele pisque. A função retorna `true` para continuar sendo chamada pelo temporizador.
 
-##Link para o vídeo de explicação:
+## Link para o vídeo de explicação:
 https://youtu.be/3s7VlAPRx0Y
